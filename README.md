@@ -17,6 +17,8 @@ f1982a5c602ee0930160b6b52e76c031 *IDA PRO 7.2.exe
 ```
 
 
-## 安装包 下载
 ![](./3.jpg)
+
+# DOWNLOADS IDA PRO
+https://t.me/idapro/38
 
